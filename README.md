@@ -1,8 +1,25 @@
 #  getting stared 
 
-to tart the dev server run 
-
+to start the dev server run 
 "npm RUN dev"
+
+# vvast Task 1
+  
+done
+
+# vvast Task 2
+
+Hosting - in order to host you need to build using a run build script and then deploy to a cloud seveice. 
+
+Can also be done sing a CICD pipline which would build and deploy and or test at the same time.
+
+# vvast Task 3
+ 
+
+to add features to this by adding the functionalty into the app, we need to update the relevan product code and or create new componnts in the react code.
+  
+
+
 
 # Shopify App Template - Node
 
